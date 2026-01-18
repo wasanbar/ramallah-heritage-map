@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#0b0f14"/>
+      <stop offset="1" stop-color="#0f172a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#g)"/>
+  <rect x="70" y="70" width="1060" height="660" rx="48" fill="rgba(15,23,42,0.65)" stroke="rgba(148,163,184,0.35)" stroke-width="3"/>
+  <text x="600" y="360" text-anchor="middle" font-size="140" font-family="system-ui, -apple-system, Segoe UI, Arial">📚</text>
+  <text x="600" y="480" text-anchor="middle" font-size="54" font-family="system-ui, -apple-system, Segoe UI, Arial" fill="#e5e7eb">مكتبة</text>
+  <text x="600" y="545" text-anchor="middle" font-size="28" font-family="system-ui, -apple-system, Segoe UI, Arial" fill="#94a3b8">صورة إرشادية — سيتم استبدالها عند توفر صورة أصلية</text>
+</svg>

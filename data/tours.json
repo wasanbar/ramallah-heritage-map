@@ -1,0 +1,67 @@
+[
+  {
+    "id": "first-time",
+    "title_ar": "جولة: أول مرة في رام الله (مشياً)",
+    "duration_ar": "55–70 دقيقة",
+    "description_ar": "قلب رام الله للمرة الأولى: ساحة المنارة ثم سرايا عثمانية وبيت تراثي، وختام تعليمي خفيف. مسار واضح بلا تشتيت.",
+    "stops": [
+      "manara",
+      "ottoman-court",
+      "dar-zahran",
+      "pause-reflect",
+      "friends-school"
+    ],
+    "title_en": "Tour: First time in Ramallah (walk)",
+    "duration_en": "55–70 min",
+    "description_en": "A clear first walk through Ramallah’s heart: Al‑Manara Square, an Ottoman-era court, a heritage house, and a gentle educational wrap‑up."
+  },
+  {
+    "id": "memory-modern",
+    "title_ar": "جولة: الدين والذاكرة (قريبة + ختام هادئ)",
+    "duration_ar": "70–95 دقيقة",
+    "description_ar": "مسار هادئ للمعالم الدينية والذاكرة: كنائس مركزية ثم متحف محمود درويش، مع محطة تأمل في المنتصف.",
+    "stops": [
+      "holy-family",
+      "transfiguration",
+      "melkite",
+      "pause-reflect",
+      "darwish-museum",
+      "khirbet-tireh"
+    ],
+    "title_en": "Tour: Faith & memory (nearby + calm ending)",
+    "duration_en": "70–95 min",
+    "description_en": "A quieter route through central churches and memory sites: ending at Mahmoud Darwish Museum, with a reflection stop in the middle."
+  },
+  {
+    "id": "market-culture",
+    "title_ar": "جولة: السوق والثقافة (خفيفة ومتنوعة)",
+    "duration_ar": "60–80 دقيقة",
+    "description_ar": "جولة متنوعة بعيدًا عن تركيز الكنائس: ساحة المنارة → زقاق حجري → السوق القديم → مقهى تراثي → قصر ثقافي.",
+    "stops": [
+      "manara",
+      "heritage_alley",
+      "ramallah_old_market",
+      "traditional_cafe",
+      "cultural_palace"
+    ],
+    "title_en": "Tour: Market & Culture (light & varied)",
+    "duration_en": "60–80 min",
+    "description_en": "A varied tour beyond churches: Al‑Manara → stone alley → old market → traditional café → cultural palace."
+  },
+  {
+    "id": "art-public-space",
+    "title_ar": "جولة: فن ومساحات عامة (تعليمية + ممتعة)",
+    "duration_ar": "65–90 دقيقة",
+    "description_ar": "تجمع بين الفن والفراغ العام: فن شارع → مكتبة/قراءة → ساحة المنارة → حديقة عامة → نقطة إطلالة.",
+    "stops": [
+      "street_art_corner",
+      "public_library",
+      "manara",
+      "family_park",
+      "city_viewpoint"
+    ],
+    "title_en": "Tour: Art & Public Space (educational + fun)",
+    "duration_en": "65–90 min",
+    "description_en": "Combines art and public life: street art → reading hub → Al‑Manara → public park → city viewpoint."
+  }
+]

@@ -1,0 +1,720 @@
+[
+  {
+    "id": "manara",
+    "name_ar": "ساحة المنارة",
+    "name_en": "Al-Manara Square",
+    "period_ar": "أواخر العهد العثماني/الانتداب",
+    "type_ar": "ساحة عامة",
+    "lat": 31.9048,
+    "lng": 35.2044,
+    "importance_ar": "نقطة القلب الحضري في رام الله، ومكان اللقاء والذاكرة العامة للمدينة.",
+    "story_ar": "كانت المنارة عقدة طرق قديمة، ثم تحولت مع توسّع المدينة إلى مركز للحياة العامة. اليوم هي نقطة انطلاق مثالية لأي جولة سيرًا على الأقدام.",
+    "images": [
+      "assets/img/commons/al-manara.jpg"
+    ],
+    "youtube": [],
+    "model3d": null,
+    "sources": [
+      {
+        "label": "Wikipedia – Al-Manara Square",
+        "url": "https://en.wikipedia.org/wiki/Al-Manara_Square"
+      },
+      {
+        "label": "Image (CC BY-SA 4.0) – Davide Mauro, Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Al-Manara_Square,_Ramallah_03.jpg"
+      }
+    ],
+    "tags": [
+      "بداية الجولة",
+      "قلب المدينة"
+    ],
+    "why_here_ar": "—",
+    "deep_ar": "",
+    "virtualTour": {
+      "type": "streetview",
+      "url": "https://www.google.com/maps?layer=c&cbll=31.9048,35.2044"
+    },
+    "beforeAfter": null,
+    "type_en": "ساحة عامة",
+    "period_en": "أواخر العهد العثماني/الانتداب",
+    "importance_en": "نقطة القلب الحضري في رام الله، ومكان اللقاء والذاكرة العامة للمدينة.",
+    "story_en": "كانت المنارة عقدة طرق قديمة، ثم تحولت مع توسّع المدينة إلى مركز للحياة العامة. اليوم هي نقطة انطلاق مثالية لأي جولة سيرًا على الأقدام.",
+    "why_here_en": "—",
+    "deep_en": ""
+  },
+  {
+    "id": "ottoman-court",
+    "name_ar": "المحكمة العثمانية (سرايا/دار القضاء)",
+    "name_en": "The Ottoman Courthouse",
+    "period_ar": "العهد العثماني",
+    "type_ar": "مبنى إداري/تراثي",
+    "lat": 31.9041144916,
+    "lng": 35.1979752396,
+    "importance_ar": "من أقدم وأجمل مباني رام الله التاريخية، ارتبط بتحولات المدينة من بيتٍ أهلي إلى مرافق عامة عبر الزمن.",
+    "story_ar": "مرّ المبنى بتحولات وظيفية عديدة: سكن عائلي، ثم عيادة طبية، ثم محكمة عثمانية، وبعد 1948 استخدم لسكن عائلات لاجئة، ولاحقًا لأغراض اقتصادية؛ واليوم يحتضن أنشطة شبابية وثقافية.",
+    "images": [
+      "assets/img/added/ottoman-court-1.jpg"
+    ],
+    "youtube": [],
+    "model3d": null,
+    "sources": [
+      {
+        "label": "Visit Ramallah – The Ottoman Courthouse",
+        "url": "https://visitramallah.ramallah.ps/en/article/10/The-Ottoman-Courthouse-"
+      },
+      {
+        "label": "UN-Habitat tender (GPS for courthouse garden)",
+        "url": "https://www.jobs.ps/en/tenders/rehabilitation-of-the-ottoman-courts-garden-in-ramallah-9364.html"
+      }
+    ],
+    "tags": [
+      "تاريخ إداري",
+      "قريب من البلدة القديمة"
+    ],
+    "why_here_ar": "—",
+    "deep_ar": "",
+    "virtualTour": {
+      "type": "streetview",
+      "url": "https://www.google.com/maps?layer=c&cbll=31.9041144916,35.1979752396"
+    },
+    "beforeAfter": null,
+    "type_en": "مبنى إداري/تراثي",
+    "period_en": "العهد العثماني",
+    "importance_en": "من أقدم وأجمل مباني رام الله التاريخية، ارتبط بتحولات المدينة من بيتٍ أهلي إلى مرافق عامة عبر الزمن.",
+    "story_en": "مرّ المبنى بتحولات وظيفية عديدة: سكن عائلي، ثم عيادة طبية، ثم محكمة عثمانية، وبعد 1948 استخدم لسكن عائلات لاجئة، ولاحقًا لأغراض اقتصادية؛ واليوم يحتضن أنشطة شبابية وثقافية.",
+    "why_here_en": "—",
+    "deep_en": ""
+  },
+  {
+    "id": "dar-zahran",
+    "name_ar": "دار زهران التراثية",
+    "name_en": "Dar Zahran Heritage Building",
+    "period_ar": "العهد العثماني",
+    "type_ar": "بيت/متحف تراثي",
+    "lat": 31.90505,
+    "lng": 35.19672,
+    "importance_ar": "بيت عثماني محفوظ يقدّم تجربة ملموسة لعمارة رام الله التقليدية وحياة أهلها.",
+    "story_ar": "يُقرأ المكان كبيتٍ للذاكرة: الحجر، القناطر، توزيع الغرف، وأثر الحياة اليومية داخل بيتٍ قديم تحوّل لفضاء ثقافي.",
+    "images": [
+      "assets/img/added/dar-zahran-exterior.jpg",
+      "assets/img/added/dar-zahran-interior.jpg",
+      "assets/img/added/dar-zahran-1923.jpg"
+    ],
+    "youtube": [],
+    "model3d": null,
+    "sources": [
+      {
+        "label": "Wikidata – Dar Zahran coordinate location",
+        "url": "https://www.wikidata.org/wiki/Q109712816"
+      },
+      {
+        "label": "LatLong – Dar Zahran listing",
+        "url": "https://www.latlong.net/country/palestine-169.html"
+      }
+    ],
+    "tags": [
+      "بيت عثماني",
+      "تراث حيّ"
+    ],
+    "why_here_ar": "—",
+    "deep_ar": "",
+    "virtualTour": {
+      "type": "streetview",
+      "url": "https://www.google.com/maps?layer=c&cbll=31.90505,35.19672"
+    },
+    "beforeAfter": null,
+    "type_en": "بيت/متحف تراثي",
+    "period_en": "العهد العثماني",
+    "importance_en": "بيت عثماني محفوظ يقدّم تجربة ملموسة لعمارة رام الله التقليدية وحياة أهلها.",
+    "story_en": "يُقرأ المكان كبيتٍ للذاكرة: الحجر، القناطر، توزيع الغرف، وأثر الحياة اليومية داخل بيتٍ قديم تحوّل لفضاء ثقافي.",
+    "why_here_en": "—",
+    "deep_en": ""
+  },
+  {
+    "id": "holy-family",
+    "name_ar": "كنيسة العائلة المقدسة (اللاتين)",
+    "name_en": "Holy Family Church (Latin)",
+    "period_ar": "أواخر العثماني/بدايات القرن 20",
+    "type_ar": "كنيسة",
+    "lat": 31.90528,
+    "lng": 35.19917,
+    "importance_ar": "علامة معمارية وروحية مهمة في نسيج رام الله، وتاريخها مرتبط بتطور التعليم والحياة الدينية في المدينة.",
+    "story_ar": "شهدت المنطقة حضورًا كاثوليكيًا متناميًا منذ أواخر القرن 19، وبُنيت الكنيسة الحالية عام 1913 بإذن السلطات العثمانية وفق مصادر سياحية ورسمية.",
+    "images": [
+      "assets/img/commons/holy-family.jpg",
+      "assets/img/added/holy-family-2.jpg"
+    ],
+    "youtube": [],
+    "model3d": null,
+    "sources": [
+      {
+        "label": "Visit Ramallah – The Holy Family Church",
+        "url": "https://visitramallah.ramallah.ps/en/article/17/The-Holy-Family---Roman-Catholic-Church"
+      },
+      {
+        "label": "Wikimapia – Holy Family Latin Church (coords)",
+        "url": "https://wikimapia.org/11828397/The-Holy-Family-Latin-Church"
+      },
+      {
+        "label": "Image (CC BY 3.0) – Ralf Lotys (Sicherlich), Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:2010-08_Ramallah_55.jpg"
+      }
+    ],
+    "tags": [
+      "عمارة دينية",
+      "قريبة للمركز"
+    ],
+    "why_here_ar": "—",
+    "deep_ar": "",
+    "virtualTour": {
+      "type": "streetview",
+      "url": "https://www.google.com/maps?layer=c&cbll=31.90528,35.19917"
+    },
+    "beforeAfter": null,
+    "type_en": "كنيسة",
+    "period_en": "أواخر العثماني/بدايات القرن 20",
+    "importance_en": "علامة معمارية وروحية مهمة في نسيج رام الله، وتاريخها مرتبط بتطور التعليم والحياة الدينية في المدينة.",
+    "story_en": "شهدت المنطقة حضورًا كاثوليكيًا متناميًا منذ أواخر القرن 19، وبُنيت الكنيسة الحالية عام 1913 بإذن السلطات العثمانية وفق مصادر سياحية ورسمية.",
+    "why_here_en": "—",
+    "deep_en": ""
+  },
+  {
+    "id": "transfiguration",
+    "name_ar": "كنيسة التجلي (الروم الأرثوذكس)",
+    "name_en": "Greek Orthodox Transfiguration Church",
+    "period_ar": "منتصف القرن 19",
+    "type_ar": "كنيسة",
+    "lat": 31.90377,
+    "lng": 35.19672,
+    "importance_ar": "أقدم كنيسة في رام الله وفق مصادر سياحية محلية، ومثال واضح على الطراز البيزنطي والأيقونات القديمة.",
+    "story_ar": "بُنيت نسخة مبكرة عام 1807، ثم شُيّدت الكنيسة الحالية عام 1850 وافتُتحت عام 1852، وتحتفظ بأيقونات وقطع كنسية تاريخية.",
+    "images": [
+      "assets/img/commons/transfiguration-ramallah.jpg",
+      "assets/img/added/transfiguration-2.jpg"
+    ],
+    "youtube": [],
+    "model3d": null,
+    "sources": [
+      {
+        "label": "Visit Ramallah – Greek Orthodox Transfiguration Church",
+        "url": "https://visitramallah.ramallah.ps/en/article/18/Greek-Orthodox-Transfiguration-Church"
+      },
+      {
+        "label": "AroundUs – Orthodox Church of Ramallah (coords)",
+        "url": "https://aroundus.com/p/12450406-orthodox-church-of-ramallah"
+      },
+      {
+        "label": "Image (CC BY 3.0) – Ralf Lotys (Sicherlich), Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:2010-08_Ramallah_15.jpg"
+      }
+    ],
+    "tags": [
+      "أيقونات",
+      "بيزنطي"
+    ],
+    "why_here_ar": "—",
+    "deep_ar": "",
+    "virtualTour": {
+      "type": "streetview",
+      "url": "https://www.google.com/maps?layer=c&cbll=31.90377,35.19672"
+    },
+    "beforeAfter": null,
+    "type_en": "كنيسة",
+    "period_en": "منتصف القرن 19",
+    "importance_en": "أقدم كنيسة في رام الله وفق مصادر سياحية محلية، ومثال واضح على الطراز البيزنطي والأيقونات القديمة.",
+    "story_en": "بُنيت نسخة مبكرة عام 1807، ثم شُيّدت الكنيسة الحالية عام 1850 وافتُتحت عام 1852، وتحتفظ بأيقونات وقطع كنسية تاريخية.",
+    "why_here_en": "—",
+    "deep_en": ""
+  },
+  {
+    "id": "melkite",
+    "name_ar": "كنيسة الروم الكاثوليك (الملكيين) – سيدة البشارة",
+    "name_en": "Our Lady of Annunciation (Melkite) Church",
+    "period_ar": "أواخر القرن 19",
+    "type_ar": "كنيسة",
+    "lat": 31.90306,
+    "lng": 35.19833,
+    "importance_ar": "معلم ديني واجتماعي، ويظهر تنوّع الطوائف والتاريخ الاجتماعي لرام الله.",
+    "story_ar": "بُنيت كنيسة سيدة البشارة للملكيين عام 1895، وتجاورها مبادرات اجتماعية/مجتمعية وفق مصادر سياحية محلية.",
+    "images": [
+      "assets/img/commons/melkite-annunciation.jpg"
+    ],
+    "youtube": [],
+    "model3d": null,
+    "sources": [
+      {
+        "label": "Visit Ramallah – Greek Catholic “Melkite” Church",
+        "url": "https://visitramallah.ramallah.ps/en/article/19/Greek-Catholic-%E2%80%9CMelkite%E2%80%9D-Church"
+      },
+      {
+        "label": "Wikimapia – Our Lady of Annunciation Melkite Church (coords)",
+        "url": "https://wikimapia.org/9503392/Our-Lady-of-Annunciation-Greek-Melkite-Catholic-Church"
+      },
+      {
+        "label": "Image (CC BY 3.0) – Ralf Lotys (Sicherlich), Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:2010-08_Ramallah_07.jpg"
+      }
+    ],
+    "tags": [
+      "تنوّع ديني",
+      "1895"
+    ],
+    "why_here_ar": "—",
+    "deep_ar": "",
+    "virtualTour": {
+      "type": "streetview",
+      "url": "https://www.google.com/maps?layer=c&cbll=31.90306,35.19833"
+    },
+    "beforeAfter": null,
+    "type_en": "كنيسة",
+    "period_en": "أواخر القرن 19",
+    "importance_en": "معلم ديني واجتماعي، ويظهر تنوّع الطوائف والتاريخ الاجتماعي لرام الله.",
+    "story_en": "بُنيت كنيسة سيدة البشارة للملكيين عام 1895، وتجاورها مبادرات اجتماعية/مجتمعية وفق مصادر سياحية محلية.",
+    "why_here_en": "—",
+    "deep_en": ""
+  },
+  {
+    "id": "friends-school",
+    "name_ar": "مدرسة الفرندز – رام الله",
+    "name_en": "Ramallah Friends School",
+    "period_ar": "أواخر القرن 19/بدايات القرن 20",
+    "type_ar": "تعليم",
+    "lat": 31.902211,
+    "lng": 35.192922,
+    "importance_ar": "من أقدم المؤسسات التعليمية في رام الله، مرتبطة بتاريخ التعليم الحديث والعمل الأهلي.",
+    "story_ar": "تأسست المدرسة في سياق مبادرات تعليمية مبكرة، وامتد أثرها لعقود في تشكيل الحياة الثقافية والتعليمية في المدينة.",
+    "images": [
+      "assets/img/commons/friends-school.jpg"
+    ],
+    "youtube": [],
+    "model3d": null,
+    "sources": [
+      {
+        "label": "Latitude.to – Ramallah Friends Schools (coords)",
+        "url": "https://latitude.to/articles-by-country/ps/palestine/81478/ramallah-friends-schools"
+      },
+      {
+        "label": "RFS Official Site (Directions)",
+        "url": "https://www.rfs.edu.ps/en/page/directions"
+      },
+      {
+        "label": "Image (CC BY-SA 4.0) – Patchesram, Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Middle_School_Bldg.jpg"
+      }
+    ],
+    "tags": [
+      "تعليم",
+      "تاريخ حديث"
+    ],
+    "why_here_ar": "—",
+    "deep_ar": "",
+    "virtualTour": {
+      "type": "streetview",
+      "url": "https://www.google.com/maps?layer=c&cbll=31.902211,35.192922"
+    },
+    "beforeAfter": null,
+    "type_en": "تعليم",
+    "period_en": "أواخر القرن 19/بدايات القرن 20",
+    "importance_en": "من أقدم المؤسسات التعليمية في رام الله، مرتبطة بتاريخ التعليم الحديث والعمل الأهلي.",
+    "story_en": "تأسست المدرسة في سياق مبادرات تعليمية مبكرة، وامتد أثرها لعقود في تشكيل الحياة الثقافية والتعليمية في المدينة.",
+    "why_here_en": "—",
+    "deep_en": ""
+  },
+  {
+    "id": "darwish-museum",
+    "name_ar": "متحف محمود درويش",
+    "name_en": "Mahmoud Darwish Museum",
+    "period_ar": "افتتاح 2012 (ذاكرة حديثة)",
+    "type_ar": "متحف/ذاكرة",
+    "lat": 31.89066,
+    "lng": 35.19129,
+    "importance_ar": "فضاء ذاكرة وطنية وأدبية مهم، مناسب كختام للجولة لأنه يجمع مكانًا مفتوحًا وسردًا حديثًا للمدينة.",
+    "story_ar": "المتحف يقدّم تجربة تجمع الوثائق والمرئيات والفضاء العام، ويحوّل الأدب إلى جغرافيا يمكن السير داخلها.",
+    "images": [
+      "assets/img/commons/darwish-museum.jpg"
+    ],
+    "youtube": [],
+    "model3d": null,
+    "sources": [
+      {
+        "label": "AroundUs – Mahmoud Darwish Museum (coords)",
+        "url": "https://aroundus.com/p/164702901-mahmoud-darwish-museum"
+      },
+      {
+        "label": "Wikidata – Mahmoud Darwish museum",
+        "url": "https://www.wikidata.org/wiki/Q61434689"
+      },
+      {
+        "label": "Image (CC BY-SA 2.0) – Neil Falzon, via Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Mahmoud_Darwish_Museum.jpg"
+      }
+    ],
+    "tags": [
+      "ذاكرة",
+      "ختام"
+    ],
+    "why_here_ar": "—",
+    "deep_ar": "",
+    "virtualTour": {
+      "type": "streetview",
+      "url": "https://www.google.com/maps?layer=c&cbll=31.89066,35.19129"
+    },
+    "beforeAfter": null,
+    "type_en": "متحف/ذاكرة",
+    "period_en": "افتتاح 2012 (ذاكرة حديثة)",
+    "importance_en": "فضاء ذاكرة وطنية وأدبية مهم، مناسب كختام للجولة لأنه يجمع مكانًا مفتوحًا وسردًا حديثًا للمدينة.",
+    "story_en": "المتحف يقدّم تجربة تجمع الوثائق والمرئيات والفضاء العام، ويحوّل الأدب إلى جغرافيا يمكن السير داخلها.",
+    "why_here_en": "—",
+    "deep_en": ""
+  },
+  {
+    "id": "khirbet-tireh",
+    "name_ar": "خربة الطيرة – الكنيسة البيزنطية",
+    "name_en": "Byzantine Church of Khirbet et-Tireh",
+    "period_ar": "بيزنطي (4–5م) / أموي",
+    "type_ar": "موقع أثري",
+    "lat": 31.9135,
+    "lng": 35.1831,
+    "importance_ar": "إضافة “عميقة” للجولة: طبقة أقدم من تاريخ المدينة (بيزنطي/مبكر) خارج المركز بقليل.",
+    "story_ar": "الموقع يقدم طبقات زمنية طويلة ويُظهر كيف تتداخل المدينة الحديثة مع آثار أقدم على أطرافها.",
+    "images": [
+      "assets/img/added/khirbet-al-tireh.jpg"
+    ],
+    "youtube": [],
+    "model3d": null,
+    "sources": [
+      {
+        "label": "Wikipedia – Byzantine Church of Khirbet et-Tireh (coords)",
+        "url": "https://en.wikipedia.org/wiki/Byzantine_Church_of_Khirbet_et-Tireh"
+      },
+      {
+        "label": "Visit Ramallah – Khirbet al Tireh",
+        "url": "https://visitramallah.ramallah.ps/en/article/26/Khirbet-al-Tireh"
+      }
+    ],
+    "tags": [
+      "أثري",
+      "خارج المركز"
+    ],
+    "why_here_ar": "—",
+    "deep_ar": "",
+    "virtualTour": {
+      "type": "streetview",
+      "url": "https://www.google.com/maps?layer=c&cbll=31.9135,35.1831"
+    },
+    "beforeAfter": null,
+    "type_en": "موقع أثري",
+    "period_en": "بيزنطي (4–5م) / أموي",
+    "importance_en": "إضافة “عميقة” للجولة: طبقة أقدم من تاريخ المدينة (بيزنطي/مبكر) خارج المركز بقليل.",
+    "story_en": "الموقع يقدم طبقات زمنية طويلة ويُظهر كيف تتداخل المدينة الحديثة مع آثار أقدم على أطرافها.",
+    "why_here_en": "—",
+    "deep_en": ""
+  },
+  {
+    "id": "pause-reflect",
+    "name_ar": "توقف: لحظة تأمل",
+    "name_en": "Pause: Reflection",
+    "period_ar": "—",
+    "type_ar": "توقف",
+    "lat": 31.9048,
+    "lng": 35.2044,
+    "importance_ar": "لحظة قصيرة لتلتقط الفكرة: المدينة ليست نقاطًا على خريطة، بل علاقات وذاكرة ومشي.",
+    "story_ar": "ما الذي يجعلك تشعر أن المكان مألوف أو غريب؟ وكيف تصنع المباني ذاكرة المدينة؟",
+    "images": [
+      "assets/img/added/ramallah-view.jpg"
+    ],
+    "youtube": [],
+    "model3d": null,
+    "sources": [],
+    "tags": [
+      "تأمل"
+    ],
+    "why_here_ar": "لأن الجولة تحتاج فراغًا مقصودًا بين المعالم.",
+    "deep_ar": "هذا التوقف مقصود لتذكير الزائر أن المعرفة ليست تكديس معلومات، بل بناء حسّ بالمكان.",
+    "virtualTour": {
+      "type": "none",
+      "url": ""
+    },
+    "beforeAfter": null,
+    "type_en": "توقف",
+    "period_en": "—",
+    "importance_en": "لحظة قصيرة لتلتقط الفكرة: المدينة ليست نقاطًا على خريطة، بل علاقات وذاكرة ومشي.",
+    "story_en": "ما الذي يجعلك تشعر أن المكان مألوف أو غريب؟ وكيف تصنع المباني ذاكرة المدينة؟",
+    "why_here_en": "لأن الجولة تحتاج فراغًا مقصودًا بين المعالم.",
+    "deep_en": "هذا التوقف مقصود لتذكير الزائر أن المعرفة ليست تكديس معلومات، بل بناء حسّ بالمكان."
+  },
+  {
+    "id": "ramallah_old_market",
+    "name_ar": "سوق رام الله القديم",
+    "name_en": "Ramallah Old Market",
+    "period_ar": "العهد العثماني/الانتداب",
+    "period_en": "Ottoman/Mandate era",
+    "type_ar": "سوق تقليدي",
+    "type_en": "Market",
+    "lat": 31.9043,
+    "lng": 35.206,
+    "importance_ar": "قلب الحياة اليومية والتبادل التجاري والذاكرة الشعبية في وسط المدينة.",
+    "importance_en": "A core everyday market space and a living archive of the city’s social life.",
+    "story_ar": "أزقة قصيرة ومحال صغيرة وروائح بهارات وقهوة—مكان يختصر علاقة الناس بالمدينة عبر تفاصيلها اليومية.",
+    "story_en": "Short alleys, small shops, spices and coffee—an everyday portrait of the city.",
+    "images": [
+      "assets/img/added/old-city.jpg"
+    ],
+    "youtube": [],
+    "model3d": null,
+    "sources": [],
+    "tags": [
+      "حياة يومية",
+      "تجارة"
+    ],
+    "why_here_ar": "لتوازن الجولة: ليس التراث دينيًا فقط، بل اقتصاد ومعيشة ومسارات مشي.",
+    "why_here_en": "To balance the narrative: heritage is not only religious, but also livelihood and movement.",
+    "deep_ar": "",
+    "deep_en": "",
+    "virtualTour": {
+      "type": "none",
+      "url": ""
+    },
+    "beforeAfter": null
+  },
+  {
+    "id": "cultural_palace",
+    "name_ar": "قصر رام الله الثقافي",
+    "name_en": "Ramallah Cultural Palace",
+    "period_ar": "معاصر",
+    "period_en": "Modern",
+    "type_ar": "مركز ثقافي",
+    "type_en": "Cultural Center",
+    "lat": 31.9084,
+    "lng": 35.2111,
+    "importance_ar": "واجهة للفعاليات الفنية: مسرح، عروض، محاضرات، ومهرجانات.",
+    "importance_en": "A landmark venue for performances, talks, and festivals.",
+    "story_ar": "عند زيارة المدينة، هذا مكان يوضح كيف تُنتج الثقافة المعاصرة ذاكرة جديدة بجوار الذاكرة التراثية.",
+    "story_en": "Shows how contemporary culture produces new memory alongside heritage.",
+    "images": [
+      "assets/img/added/ramallah-cultural-palace.jpg",
+      "assets/img/added/ramallah-cultural-palace-interior.jpg"
+    ],
+    "youtube": [],
+    "model3d": null,
+    "sources": [],
+    "tags": [
+      "ثقافة",
+      "فن"
+    ],
+    "why_here_ar": "لإدخال الفن المعاصر ضمن خريطة التراث الحي.",
+    "why_here_en": "To include contemporary arts as part of living heritage.",
+    "deep_ar": "",
+    "deep_en": "",
+    "virtualTour": {
+      "type": "none",
+      "url": ""
+    },
+    "beforeAfter": null
+  },
+  {
+    "id": "public_library",
+    "name_ar": "مكتبة عامة/مركز قراءة",
+    "name_en": "Public Library / Reading Hub",
+    "period_ar": "معاصر",
+    "period_en": "Modern",
+    "type_ar": "مكتبة",
+    "type_en": "Library",
+    "lat": 31.9056,
+    "lng": 35.2057,
+    "importance_ar": "مكان هادئ للقراءة والتعلّم، يضيف بعدًا معرفيًا للجولة.",
+    "importance_en": "A quiet learning stop that adds a knowledge layer to the walk.",
+    "story_ar": "بين صخب المركز، وجود مكتبة يذكّر بأن المدينة تُبنى أيضًا بالمعرفة اليومية.",
+    "story_en": "A reminder that cities are built through everyday learning.",
+    "images": [
+      "assets/img/added/ramallah-public-library.jpg"
+    ],
+    "youtube": [],
+    "model3d": null,
+    "sources": [],
+    "tags": [
+      "تعليم",
+      "قراءة"
+    ],
+    "why_here_ar": "محطة مناسبة لعائلات وزوار صغار السن.",
+    "why_here_en": "A family-friendly stop for younger visitors.",
+    "deep_ar": "",
+    "deep_en": "",
+    "virtualTour": {
+      "type": "none",
+      "url": ""
+    },
+    "beforeAfter": null
+  },
+  {
+    "id": "street_art_corner",
+    "name_ar": "زاوية فن الشارع",
+    "name_en": "Street Art Corner",
+    "period_ar": "معاصر",
+    "period_en": "Modern",
+    "type_ar": "فن حضري",
+    "type_en": "Urban Art",
+    "lat": 31.9039,
+    "lng": 35.2072,
+    "importance_ar": "مساحة تُظهر لغة المدينة البصرية (جرافيتي/ملصقات/شعارات).",
+    "importance_en": "A small spot to read the city’s visual language (murals, posters, symbols).",
+    "story_ar": "الجداريات ليست ديكورًا؛ أحيانًا هي أرشيف لحظيّ للسياسة والذاكرة والهوية.",
+    "story_en": "Murals can function as a real-time archive of identity and memory.",
+    "images": [
+      "assets/img/added/street-art-1.jpg"
+    ],
+    "youtube": [],
+    "model3d": null,
+    "sources": [],
+    "tags": [
+      "فن",
+      "ذاكرة"
+    ],
+    "why_here_ar": "لتجديد تجربة الطالبة: صورة، سؤال، ونقاش بدل معلومات ثقيلة.",
+    "why_here_en": "To refresh the experience: a visual stop that invites discussion.",
+    "deep_ar": "",
+    "deep_en": "",
+    "virtualTour": {
+      "type": "none",
+      "url": ""
+    },
+    "beforeAfter": null
+  },
+  {
+    "id": "traditional_cafe",
+    "name_ar": "مقهى تراثي",
+    "name_en": "Traditional Café",
+    "period_ar": "معاصر",
+    "period_en": "Modern",
+    "type_ar": "مقهى",
+    "type_en": "Café",
+    "lat": 31.9049,
+    "lng": 35.2053,
+    "importance_ar": "استراحة قصيرة تُحاكي ثقافة اللقاء في المركز.",
+    "importance_en": "A short pause that reflects the city’s social meeting culture.",
+    "story_ar": "التاريخ يُروى أحيانًا على طاولة صغيرة: حكايات، لهجات، وأسماء شوارع.",
+    "story_en": "Sometimes history is told over a small table: stories, accents, street names.",
+    "images": [
+      "assets/img/added/sindyan-cafe.jpg"
+    ],
+    "youtube": [],
+    "model3d": null,
+    "sources": [],
+    "tags": [
+      "استراحة",
+      "تجربة"
+    ],
+    "why_here_ar": "لإضافة عنصر راحة وتجربة حسية (قهوة/صوت/وقت).",
+    "why_here_en": "To add a sensory, restful element (coffee, sound, time).",
+    "deep_ar": "",
+    "deep_en": "",
+    "virtualTour": {
+      "type": "none",
+      "url": ""
+    },
+    "beforeAfter": null
+  },
+  {
+    "id": "heritage_alley",
+    "name_ar": "زقاق قديم/مسار حجري",
+    "name_en": "Heritage Alley (Stone Path)",
+    "period_ar": "الانتداب/بدايات المدينة الحديثة",
+    "period_en": "Mandate/early modern city",
+    "type_ar": "ممر تاريخي",
+    "type_en": "Historic Path",
+    "lat": 31.9037,
+    "lng": 35.2063,
+    "importance_ar": "تفصيل صغير يعلّم الزائر قراءة الأرضيات والحجر والظل.",
+    "importance_en": "A small detail that teaches visitors how to read stone, shade, and walking rhythms.",
+    "story_ar": "لا تحتاج دائمًا إلى مبنى مشهور؛ أحيانًا المسار نفسه هو المعلم.",
+    "story_en": "You don’t always need a famous building; sometimes the path itself is the landmark.",
+    "images": [
+      "assets/img/added/old-city.jpg"
+    ],
+    "youtube": [],
+    "model3d": null,
+    "sources": [],
+    "tags": [
+      "مشي",
+      "تفاصيل"
+    ],
+    "why_here_ar": "لتقوية فكرة 'المشي' كطريقة معرفة.",
+    "why_here_en": "To emphasize walking as a way of knowing.",
+    "deep_ar": "",
+    "deep_en": "",
+    "virtualTour": {
+      "type": "none",
+      "url": ""
+    },
+    "beforeAfter": null
+  },
+  {
+    "id": "city_viewpoint",
+    "name_ar": "نقطة إطلالة (منظر المدينة)",
+    "name_en": "City Viewpoint",
+    "period_ar": "معاصر",
+    "period_en": "Modern",
+    "type_ar": "إطلالة",
+    "type_en": "Viewpoint",
+    "lat": 31.9102,
+    "lng": 35.2078,
+    "importance_ar": "وقفة لملاحظة تضاريس المدينة واتجاهات التوسع.",
+    "importance_en": "A stop to observe terrain and urban growth directions.",
+    "story_ar": "من الأعلى ترى العلاقات: طرق، أحياء، وطبقات العمران بدل نقاط منفصلة.",
+    "story_en": "From above, you see relationships—roads, neighborhoods, layers—not isolated points.",
+    "images": [
+      "assets/img/added/city-viewpoint-1.jpg"
+    ],
+    "youtube": [],
+    "model3d": null,
+    "sources": [],
+    "tags": [
+      "إطلالة",
+      "تحليل"
+    ],
+    "why_here_ar": "لفهم المكان على مستوى أوسع (Scale).",
+    "why_here_en": "To introduce scale and spatial thinking.",
+    "deep_ar": "",
+    "deep_en": "",
+    "virtualTour": {
+      "type": "none",
+      "url": ""
+    },
+    "beforeAfter": null
+  },
+  {
+    "id": "family_park",
+    "name_ar": "حديقة عامة (استراحة عائلية)",
+    "name_en": "Public Park (Family Stop)",
+    "period_ar": "معاصر",
+    "period_en": "Modern",
+    "type_ar": "حديقة عامة",
+    "type_en": "Public Park",
+    "lat": 31.9091,
+    "lng": 35.2094,
+    "importance_ar": "مساحة خضراء بسيطة تُظهر علاقة الناس بالفراغ العام.",
+    "importance_en": "A green public space highlighting everyday use of urban commons.",
+    "story_ar": "الحدائق ليست ترفًا؛ هي جزء من الصحة النفسية والذاكرة العائلية.",
+    "story_en": "Parks aren’t luxury—they shape wellbeing and family memory.",
+    "images": [
+      "assets/img/added/family-park.jpg",
+      "assets/img/added/radanna-park.jpg"
+    ],
+    "youtube": [],
+    "model3d": null,
+    "sources": [],
+    "tags": [
+      "بيئة",
+      "عائلة"
+    ],
+    "why_here_ar": "لتقليل تركيز الجولة على مبانٍ دينية وإضافة بعد إنساني.",
+    "why_here_en": "To reduce focus on religious sites and add a human dimension.",
+    "deep_ar": "",
+    "deep_en": "",
+    "virtualTour": {
+      "type": "none",
+      "url": ""
+    },
+    "beforeAfter": null
+  }
+]
